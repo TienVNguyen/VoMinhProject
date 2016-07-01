@@ -5,7 +5,7 @@ Time spent: 4 hours implementation (included searching) in total
  - 06/30: 1 hour
  - 07/01: 3 hours
 
-Implement link: https://github.com/TienVNguyen/VoMinhProject/tree/master/VoMinhProject
+Implement link: https://github.com/TienVNguyen/VoMinhProject
 
 Completed these requirements:
  * [x] At least one photo representing the business
